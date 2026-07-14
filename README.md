@@ -1,4 +1,4 @@
-Hi, I’m Umer Hassan, a junior full stack developer currently in 8th semester at UCP.
+Hi, I’m Umer Hassan, a full stack developer.
 
 I specialize in the MERN stack and have hands-on experience with Postman, Git, and programming languages like C, C++, and Python. I enjoy building web applications, solving coding challenges, and learning new technologies to grow as a full-stack developer.
 
